@@ -1,0 +1,21 @@
+Node.js 
+	criando sua primeira biblioteca:
+	pacote de código utilizado para automatizar ou otimizar uma tarefa.
+
+	
+	Npm = gerenciador de pacotes / node packge manager 
+
+Instalando dependencias = npm install e o nome da dependencias.
+
+A lib fs = é uma lib que busca arquivos. 
+
+tratamentos de erros = usamos o throw new Error	dentro de uma função para tratar erros. 
+
+promessas =  chamada then, então .then, then é então, o que estamos dizendo literalmente aqui para o JavaScript é, JavaScript vai lá com o método FS, lê um arquivo, readFile, então, depois que terminar de ler o arquivo, você vai fazer alguma coisa que vamos dizer aqui.
+
+astnc/await - 
+
+fs (File System, ou sistema de arquivos) nativa do JavaScript para que o programa consiga acessar e ler arquivos do computador;
+NodeJS quando algo no programa não sai como o esperado utilizando a palavra-chave throw, ou lançar;
+“promessas” são a forma que o JavaScript utiliza para trabalhar com código assíncrono e que podemos resolvê-las utilizando em conjunto as palavras-chave async e await ou o método 
+.then().
